@@ -1,16 +1,35 @@
-## Hi there 👋
+# Surendra Gabbani
 
-<!--
-**SurendraGabbani/SurendraGabbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast focused on VAPT, Web, API and Mobile Application Security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Web Application Security (VAPT)
+- Vulnerability Reporting & Risk Assessment.
+- API Security Testing
+- Manual Vapt
+- Business logic flaws
+- OWASP Top 10
+- Authentication & Authorization
+
+
+---
+
+## 📂 Projects
+- **Vulnerability Disclosure Programs** (VDP)
+- Host Header Injection identified in password reset functionality, which could lead to potential account takeover.
+- Reflected Cross-Site Scripting (XSS) discovered due to improper input validation, allowing JavaScript execution in user browsers.
+- Tools Used: Burp Suite, Kali Linux, Browser DevTools.
+
+---
+
+## 📚 Currently Learning
+- Advanced Network Security
+- Cloud Security Testing
+- Bug Bounty Hunting
+
+---
+
+## 🔗 LinkedIn
+https://linkedin.com/in/your-link](https://www.linkedin.com/in/surendragabbani/
