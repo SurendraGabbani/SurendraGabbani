@@ -12,6 +12,7 @@ Cybersecurity enthusiast focused on VAPT, Web, API and Mobile Application Securi
 - Business logic flaws
 - OWASP Top 10
 - Authentication & Authorization
+- Mobile VAPT
 
 
 ---
