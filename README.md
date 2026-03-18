@@ -33,4 +33,4 @@ Cybersecurity enthusiast focused on VAPT, Web, API and Mobile Application Securi
 ---
 
 ## 🔗 LinkedIn
-https://linkedin.com/in/your-link](https://www.linkedin.com/in/surendragabbani/
+https://www.linkedin.com/in/surendragabbani/
